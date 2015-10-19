@@ -1,0 +1,6 @@
+Aluno: Diogo Lopes
+RA: 104696
+
+Olá professor, primeiramente quero dizer que a pedido do prof Thales, orei pelo senhor e tenho certeza que Deus resolveu o seu problema da melhor maneira.
+Bom.. o trabalho está pronto, não transcrevi ao pé da letra os algoritmos do pdf pq o PHP tem funções que resolver muito mais facilmente.
+Agora vem o problema.. como o PHP é uma linguagem basicamente feita para trabalhar com o HTML fiquei com preguiça(admito) de fazer um form para receber os dados, logo, eu adicionei direto no vetor facilitando. no exercício dois fiz todos os testes: UpperCase, Lowercase, int e string vazia.
